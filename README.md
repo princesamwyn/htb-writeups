@@ -26,3 +26,9 @@ This repository contains my hands-on learning and writeups from Hack The Box mac
 
 - Solving beginner to intermediate machines
 - Improving enumeration and exploitation skills
+
+ ## 📌 Tools Used
+ 
+- Nmap  
+- SMBClient  
+- Impacket (mssqlclient)  
